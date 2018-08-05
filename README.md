@@ -1,5 +1,7 @@
 # react-babel-gulp-browserify-tutorial について
 
+[![GuardRails badge](https://badges.production.guardrails.io/shtakai/react-babel-gulp-browserify-tutorial.svg)](https://www.guardrails.io)
+
 React.js の Tutorial を gulp (browserify + babel) を利用してすぐに始めることが可能です。  
 はやりの React.js を体験してみませんか？
 
